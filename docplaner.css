@@ -1,0 +1,131 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,300&family=Open+Sans:wght@300&family=Roboto:wght@300;700&display=swap');
+
+
+img{
+    width: 290px;
+    margin-top: -50px;
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+nav ul{
+    display: flex;
+
+}
+nav ul li{
+    padding: 5px;
+    list-style-type: none;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+a{
+    text-decoration: none;
+    color: rgb(165, 160, 160);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+
+.about{
+    color: rgb(31, 197, 197);
+}
+
+.logo{
+    display: flex;
+    margin-left: 50%;
+    width: 30px;
+    margin-top: 10px;
+}
+.h{
+    margin-left: 400px;
+    margin-top: 50px;
+    font-family:  'Open Sans', sans-serif; 
+    color:#00b39b;
+}
+
+.colone{
+    display: flex;
+
+}
+.colone p{
+    color: rgb(148, 148, 148);
+ font-family: 'Nunito Sans', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-size:medium;
+    
+}
+.colon1{
+    margin-left:250px ;
+}
+.patient{
+    width: 210px;
+    height: 250px;
+    margin-left: 40px;
+    background-color: #00b39b;
+    border-radius: 20px;
+
+    
+}
+.patient img{
+    width: 50px;
+    margin: 20px;
+}
+.patient p{
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+
+}
+.contre{
+    margin-left: 30px;
+    
+}
+.co{
+    display: flex;
+    padding-left:250px ;
+      
+}
+
+
+.docteur{
+    margin-left: 100px;
+    width: 200px;
+    height: 210px;
+    text-align: start;
+    padding-top: 50px;
+    background-color: #178fdf;
+    border-radius: 20px;
+
+}
+.docteur p{
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+.docteur img{
+    width: 50px;
+    right: 0;
+}
+.doc {
+    margin-left: 50px;
+    
+}
+.clinic{
+    margin-left: 100px;
+    width: 210px;
+    height: 200px;
+    text-align: start;
+    padding-top: 50px;
+    background-color: #22282c;
+    border-radius: 20px;
+
+}
+
+.clinic img{
+    width: 50px;
+    right: 0;
+    padding-left:5px;
+}
